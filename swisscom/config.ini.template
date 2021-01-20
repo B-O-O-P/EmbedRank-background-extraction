@@ -1,0 +1,7 @@
+[STANFORDTAGGER]
+jar_path =
+model_directory_path =
+
+[STANFORDCORENLPTAGGER]
+host = localhost
+port = 9000

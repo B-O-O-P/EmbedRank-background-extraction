@@ -1,0 +1,11 @@
+stanford-postagger*/
+config.ini
+
+# JetBrains IDEs
+.idea/
+
+# Python
+__pycache__/
+build/
+dist/
+*.egg-info/
